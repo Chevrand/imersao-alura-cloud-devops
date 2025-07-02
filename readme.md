@@ -1,6 +1,6 @@
 # Imersão DevOps - Alura Google Cloud
 
-Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
+Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino. O projeto foi desenvolvido e fornecido pela equipe da Alura para servir apenas como um insumo a fim de que pudesse ser utilizado para aplicar todos os conhecimentos ministrados durante a 'Imersão Cloud Devops'.
 
 ## Pré-requisitos
 
